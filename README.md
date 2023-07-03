@@ -1,5 +1,5 @@
 # WordPress Installer
-You can create WordPress site with one simply command.
+You can create WordPress site with one simple command.
 
 ## Requirements
 - PHP v8.1 and above
