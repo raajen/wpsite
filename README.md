@@ -8,11 +8,12 @@ You can create WordPress site with one simple command.
 - exec function must be available
 
 ## Installation
-- `wget https://raw.githubusercontent.com`
-- `sudo mv wpsite.phar /usr/local/bin/wpsite`
-- `sudo chmod+x /usr/local/bin/wpsite`
+- `curl -o wpinstall.phar https://raajen.com/wpinstall.phar`
+- `sudo mv wpinstall.phar /usr/local/bin/wpinstall`
+- `sudo chmod+x /usr/local/bin/wpinstall`
 
 ### Usage
 - Open your terminal
 - Go to your Sites directory
-- Run `wpsite`
+- Run `wpinstall`
+- If you're running it for the first time, you will be asked to enter your database credentials.
