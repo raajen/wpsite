@@ -14,6 +14,8 @@ You can create WordPress site with one simple command.
 
 ### Usage
 - Open your terminal
-- Go to your Sites directory
+- Go to your Sites directory. eg: `cd ~/Sites`
 - Run `wpinstall`
-- If you're running it for the first time, you will be asked to enter your database credentials.
+
+> If you're running it for the first time, you will be asked to enter your database credentials.
+> Follow the instructions on the screen!
